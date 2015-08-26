@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Testy</string>
+	<string>ToDo</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -36,7 +36,7 @@
 		<key>bundleDividerCollapsed</key>
 		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>709</real>
+		<real>1030.5</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -44,9 +44,9 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>490</real>
+		<real>515</real>
 		<key>savedFrame</key>
-		<string>272 36 1008 741 0 0 1280 777 </string>
+		<string>0 36 1280 741 0 0 1280 777 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
